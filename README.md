@@ -2,6 +2,8 @@
 
 # Vueform Builder
 
+# [stat](https://stat.vueform.com/builder?key=) Find this URL and temper the response to crack the builder
+
 <p>
   <a href="https://www.npmjs.com/package/@vueform/builder" target="_blank"><img alt="npm" src="https://img.shields.io/npm/dt/@vueform/builder?color=%2317c495"></a>
   <a href="https://www.npmjs.com/package/@vueform/builder" target="_blank"><img alt="npm" src="https://img.shields.io/npm/v/@vueform/builder?color=%2317c495"></a>
